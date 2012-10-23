@@ -26,6 +26,7 @@ set winwidth=80
 set winheight=20
 
 set scrolloff=5
+set nowrap
 
 " enable mouse in all modes.
 set mouse=a
